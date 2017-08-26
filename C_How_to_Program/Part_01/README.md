@@ -1,0 +1,11 @@
+#C PROCEDURAL PROGRAMMING
+    * Control Statements
+    * Functions
+    * Arrays and Pointers
+    * Characters and Strings
+    * Formatted I/O and Files
+    * Structures and Unions
+    * Bit Manipulation
+    * Enumerations
+    * Data Structures
+    * Preprocessor
